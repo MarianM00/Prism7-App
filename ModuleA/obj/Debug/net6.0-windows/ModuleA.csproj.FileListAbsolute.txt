@@ -1,0 +1,17 @@
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\bin\Debug\net6.0-windows\ModuleA.deps.json
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\bin\Debug\net6.0-windows\ModuleA.dll
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\bin\Debug\net6.0-windows\ModuleA.pdb
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA.csproj.AssemblyReference.cache
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA.AssemblyInfoInputs.cache
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA.AssemblyInfo.cs
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA.csproj.CoreCompileInputs.cache
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA.dll
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\refint\ModuleA.dll
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA.pdb
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ref\ModuleA.dll
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\Views\ViewA.g.cs
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA_MarkupCompile.cache
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA_MarkupCompile.lref
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\Views\ViewA.baml
+C:\Users\Marian\Desktop\StartLearn\PrismApp\ModuleA\obj\Debug\net6.0-windows\ModuleA.g.resources
